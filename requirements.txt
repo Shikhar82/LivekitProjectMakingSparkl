@@ -1,0 +1,11 @@
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-noise-cancellation
+requests
+python-dotenv
+pydantic-ai-slim[openai,mcp]
+livekit-plugins-sarvam
+livekit-plugins-silero
+livekit-plugins-deepgram
+gspread
+google-auth
